@@ -1,0 +1,119 @@
+Volcano_Number,Volcano_Name,Primary_Volcano_Type,Elevation,Tectonic_Settings,Population within 5 km,Population within 10 km,Population within 30 km,Population within 100 km,Latitude
+290390,Alaid,Stratovolcano,2285,Subduction zone / Continental crust (>25 km),,64,64,2887,50.861
+221060,Alu-Dalafilla,Fissure vent(s),578,Rift zone / Intermediate crust (15-25 km),,,11209,478054,13.793
+257040,Ambrym,Pyroclastic shield,1334,Subduction zone / Intermediate crust (15-25 km),,186,10826,63999,-16.25
+284200,Anatahan,Stratovolcano,790,Subduction zone / Crustal thickness unknown,,,,,16.35
+283110,Asamayama,Complex,2568,Subduction zone / Continental crust (>25 km),583,22371,457576,7629353,36.406
+313010,Augustine,Lava dome(s),1252,Subduction zone / Continental crust (>25 km),,,,759,59.363
+353060,"Azul, Cerro",Shield,1640,Rift zone / Oceanic crust (< 15 km),220,220,314,1936,-0.92
+265090,Banda Api,Caldera,596,Subduction zone / Oceanic crust (< 15 km),5682,5682,5810,5810,-4.523
+373030,Bardarbunga,Stratovolcano,2000,Rift zone / Oceanic crust (< 15 km),,,,1348,64.633
+260010,Barren Island,Stratovolcano,354,Subduction zone / Continental crust (>25 km),645,645,645,5035,12.278
+300250,Bezymianny,Stratovolcano,2882,Subduction zone / Continental crust (>25 km),,,47,11728,55.972
+273010,Bulusan,Stratovolcano(es),1535,Subduction zone / Continental crust (>25 km),2789,74286,518705,3360418,12.769
+358020,Calbuco,Stratovolcano,1974,Subduction zone / Continental crust (>25 km),70,871,32265,575233,-41.33
+224010,Cameroon,Stratovolcano,4095,Intraplate / Continental crust (>25 km),328,26053,417460,3079036,4.203
+358041,Chaiten,Caldera,1122,Subduction zone / Continental crust (>25 km),8968,8968,9280,75311,-42.833
+341120,"Chichon, El",Lava dome(s),1150,Subduction zone / Continental crust (>25 km),3759,11000,143015,3570632,17.36
+290360,Chikurachki,Stratovolcano(es),1781,Subduction zone / Continental crust (>25 km),,65,527,2492,50.324
+311240,Cleveland,Stratovolcano,1730,Subduction zone / Intermediate crust (15-25 km),,,,,52.825
+266010,Colo,Stratovolcano,404,Subduction zone / Continental crust (>25 km),1897,2025,2025,229592,-0.162
+357090,Copahue,Stratovolcano,2953,Subduction zone / Continental crust (>25 km),88,555,3042,138414,-37.856
+352050,Cotopaxi,Stratovolcano,5911,Subduction zone / Continental crust (>25 km),251,7299,152139,3631492,-0.677
+211060,Etna,Stratovolcano(es),3320,Subduction zone / Continental crust (>25 km),78,3291,1016540,3052770,37.748
+372020,Eyjafjallajokull,Stratovolcano,1651,Rift zone / Oceanic crust (< 15 km),,,786,18516,63.633
+353010,Fernandina,Shield,1476,Rift zone / Oceanic crust (< 15 km),129,129,208,1972,-0.37
+384010,Fogo,Stratovolcano,2829,Intraplate / Intermediate crust (15-25 km),189,13254,37650,267298,14.95
+233020,"Fournaise, Piton de la",Shield,2632,Intraplate / Oceanic crust (< 15 km),55859,55859,246792,717820,-21.244
+312260,Fourpeaked,Stratovolcano,2105,Subduction zone / Continental crust (>25 km),,,,165,58.77
+342090,Fuego,Stratovolcano(es),3763,Subduction zone / Continental crust (>25 km),1373,54332,1016339,7677809,14.473
+351080,Galeras,Complex,4276,Subduction zone / Continental crust (>25 km),705,120817,630777,1700248,1.22
+263140,Galunggung,Stratovolcano,2168,Subduction zone / Continental crust (>25 km),4781,66495,2382939,23897342,-7.25
+268060,Gamalama,Stratovolcano(es),1715,Subduction zone / Oceanic crust (< 15 km),103429,204820,308691,536972,0.8
+268040,Gamkonora,Stratovolcano,1635,Subduction zone / Oceanic crust (< 15 km),3354,12744,61376,627128,1.38
+373010,Grimsvotn,Caldera,1719,Rift zone / Oceanic crust (< 15 km),,,,1736,64.416
+234010,Heard,Stratovolcano,2745,Intraplate / Oceanic crust (< 15 km),,,,,-53.106
+372070,Hekla,Stratovolcano,1490,Rift zone / Oceanic crust (< 15 km),,,298,22845,63.983
+243080,Home Reef,Submarine,-10,Subduction zone / Oceanic crust (< 15 km),,,142,21334,-18.992
+358057,"Hudson, Cerro",Stratovolcano,1905,Subduction zone / Continental crust (>25 km),,12,28,81642,-45.9
+243040,Hunga Tonga-Hunga Ha'apai,Submarine,114,Subduction zone / Oceanic crust (< 15 km),230,230,532,86213,-20.536
+284010,Izu-Oshima,Stratovolcano,758,Subduction zone / Oceanic crust (< 15 km),2381,8037,8375,11837468,34.724
+272020,Kanlaon,Stratovolcano,2435,Subduction zone / Continental crust (>25 km),1662,40276,923257,9345000,10.412
+251030,Karkar,Stratovolcano,1839,Subduction zone / Continental crust (>25 km),,4159,20127,189841,-4.649
+233010,Karthala,Shield,2361,Intraplate / Oceanic crust (< 15 km),225379,225379,278330,399067,-11.75
+311130,Kasatochi,Stratovolcano,314,Subduction zone / Intermediate crust (15-25 km),,,,276,52.177
+263280,Kelut,Stratovolcano,1731,Subduction zone / Continental crust (>25 km),279,50901,2087876,24999627,-7.93
+332010,Kilauea,Shield,1222,Intraplate / Oceanic crust (< 15 km),3122,3122,8495,169550,19.421
+282090,Kirishimayama,Shield,1700,Subduction zone / Continental crust (>25 km),647,8415,407050,3972044,31.934
+300230,Kizimen,Stratovolcano,2334,Subduction zone / Continental crust (>25 km),,26,197,5564,55.131
+300260,Klyuchevskoy,Stratovolcano,4754,Subduction zone / Continental crust (>25 km),,,292,12406,56.056
+300090,Koryaksky,Stratovolcano,3430,Subduction zone / Continental crust (>25 km),,13,142050,257322,53.321
+373080,Krafla,Caldera,800,Rift zone / Oceanic crust (< 15 km),384,384,1258,25667,65.715
+252070,Krummel-Garbuna-Welcker,Stratovolcano(es),564,Subduction zone / Continental crust (>25 km),91,8207,58235,143455,-5.416
+282050,Kuchinoerabujima,Stratovolcano(es),657,Subduction zone / Oceanic crust (< 15 km),1544,1698,5348,149518,30.443
+355100,Lascar,Stratovolcano(es),5592,Subduction zone / Continental crust (>25 km),,70,570,8119,-23.37
+357110,Llaima,Stratovolcano,3125,Subduction zone / Continental crust (>25 km),86,811,18568,630458,-38.692
+266100,Lokon-Empung,Stratovolcano(es),1580,Subduction zone / Continental crust (>25 km),12183,75684,942160,1583346,1.358
+357100,Lonquimay,Stratovolcano,2832,Subduction zone / Continental crust (>25 km),96,540,13635,504320,-38.379
+257050,Lopevi,Stratovolcano,1413,Subduction zone / Intermediate crust (15-25 km),690,793,7942,50310,-16.507
+268070,Makian,Stratovolcano,1357,Subduction zone / Oceanic crust (< 15 km),4986,8466,21360,441768,0.32
+311310,Makushin,Stratovolcano,1800,Subduction zone / Intermediate crust (15-25 km),,,3437,3850,53.891
+251020,Manam,Stratovolcano,1807,Subduction zone / Continental crust (>25 km),1106,2553,24364,180402,-4.08
+221115,Manda Hararo,Shield(s),600,Rift zone / Intermediate crust (15-25 km),191,857,7455,419204,12.17
+353080,Marchena,Shield,343,Rift zone / Oceanic crust (< 15 km),785,785,785,3001,0.33
+332020,Mauna Loa,Shield,4170,Intraplate / Oceanic crust (< 15 km),45,45,1906,175315,19.475
+273030,Mayon,Stratovolcano,2462,Subduction zone / Continental crust (>25 km),4350,248448,1166441,4142375,13.257
+263250,Merapi,Stratovolcano,2910,Subduction zone / Continental crust (>25 km),49205,185849,4348473,24728414,-7.54
+284040,Miyakejima,Stratovolcano,775,Subduction zone / Oceanic crust (< 15 km),1848,3189,3474,95663,34.094
+344090,Momotombo,Stratovolcano,1270,Subduction zone / Continental crust (>25 km),100,1851,98583,3569021,12.423
+221101,Nabro,Stratovolcano,2218,Rift zone / Intermediate crust (15-25 km),24,145,2713,26881,13.37
+353050,"Negra, Sierra",Shield,1124,Rift zone / Oceanic crust (< 15 km),408,408,983,9884,-0.83
+344070,"Negro, Cerro",Pyroclastic cone(s),728,Subduction zone / Continental crust (>25 km),1690,10243,296320,3540933,12.506
+223020,Nyamulagira,Shield,3058,Rift zone / Continental crust (>25 km),3751,27027,711356,8333476,-1.408
+223030,Nyiragongo,Stratovolcano,3470,Rift zone / Continental crust (>25 km),2416,31145,1006436,9087529,-1.52
+311290,Okmok,Shield,1073,Subduction zone / Intermediate crust (15-25 km),,,,,53.43
+283040,Ontakesan,Complex,3067,Subduction zone / Continental crust (>25 km),176,2098,86634,8307889,35.893
+342110,Pacaya,Complex,2569,Subduction zone / Continental crust (>25 km),4250,53579,2454482,7033094,14.382
+284170,Pagan,Stratovolcano(es),570,Subduction zone / Crustal thickness unknown,,,,,18.13
+264150,Paluweh,Stratovolcano,875,Subduction zone / Crustal thickness unknown,446,446,5284,548803,-8.32
+263100,Papandayan,Stratovolcano(es),2665,Subduction zone / Continental crust (>25 km),6835,163468,1637971,19312972,-7.32
+312030,Pavlof,Stratovolcano,2493,Subduction zone / Continental crust (>25 km),,,,3002,55.417
+273083,Pinatubo,Stratovolcano,1486,Subduction zone / Continental crust (>25 km),725,3808,1148684,21875048,15.13
+357040,Planchon-Peteroa,Stratovolcano(es),3977,Subduction zone / Continental crust (>25 km),,48,1345,634959,-35.223
+341090,Popocatepetl,Stratovolcano(es),5393,Subduction zone / Continental crust (>25 km),325,2584,634054,26509510,19.023
+357150,Puyehue-Cordon Caulle,Stratovolcano,2236,Subduction zone / Continental crust (>25 km),129,783,7163,515357,-40.59
+252140,Rabaul,Pyroclastic shield,688,Subduction zone / Continental crust (>25 km),3311,43531,199361,252121,-4.271
+313030,Redoubt,Stratovolcano,3108,Subduction zone / Continental crust (>25 km),,,,32410,60.485
+352010,Reventador,Stratovolcano,3562,Subduction zone / Continental crust (>25 km),484,963,4403,2619647,-0.077
+264030,Rinjani,Stratovolcano,3726,Subduction zone / Continental crust (>25 km),10289,55594,1374441,3555330,-8.42
+267010,Ruang,Stratovolcano,725,Subduction zone / Oceanic crust (< 15 km),878,1652,2766,149159,2.3
+241100,Ruapehu,Stratovolcano,2797,Subduction zone / Continental crust (>25 km),14,298,6901,119709,-39.28
+351020,"Ruiz, Nevado del",Stratovolcano,5279,Subduction zone / Continental crust (>25 km),3849,20146,507608,4252435,4.892
+344020,San Cristobal,Stratovolcano,1745,Subduction zone / Continental crust (>25 km),208,7876,351227,2002579,12.702
+343100,San Miguel,Stratovolcano,2130,Subduction zone / Continental crust (>25 km),1232,63007,796482,3633885,13.434
+264050,Sangeang Api,Complex,1912,Subduction zone / Continental crust (>25 km),204,1155,39301,809132,-8.2
+343020,Santa Ana,Stratovolcano,2381,Subduction zone / Continental crust (>25 km),489,21653,1240131,6486880,13.853
+290240,Sarychev Peak,Stratovolcano,1496,Subduction zone / Intermediate crust (15-25 km),17,143,143,148,48.092
+300270,Sheveluch,Stratovolcano,3283,Subduction zone / Continental crust (>25 km),,,1718,11613,56.653
+311360,Shishaldin,Stratovolcano,2857,Subduction zone / Continental crust (>25 km),,,10,197,54.756
+261080,Sinabung,Stratovolcano,2460,Subduction zone / Continental crust (>25 km),997,13801,163630,7646863,3.17
+266030,Soputan,Stratovolcano,1785,Subduction zone / Continental crust (>25 km),4724,69991,501336,1696768,1.112
+360050,Soufriere Hills,Stratovolcano,915,Subduction zone / Oceanic crust (< 15 km),3006,9401,9458,448929,16.72
+360150,Soufriere St. Vincent,Stratovolcano,1220,Subduction zone / Oceanic crust (< 15 km),1491,15327,103882,291476,13.33
+313040,Spurr,Stratovolcano,3374,Subduction zone / Continental crust (>25 km),,,,11097,61.299
+321050,St. Helens,Stratovolcano,2549,Subduction zone / Continental crust (>25 km),78,427,2221,2173101,46.2
+221010,"Tair, Jebel at",Stratovolcano,244,Rift zone / Oceanic crust (< 15 km),,,,14493,15.55
+261160,Talang,Stratovolcano,2575,Subduction zone / Continental crust (>25 km),1593,18512,214975,3283153,-0.979
+344040,Telica,Stratovolcano(es),1036,Subduction zone / Continental crust (>25 km),1079,21990,327294,2982538,12.606
+263310,Tengger Caldera,Stratovolcano(es),2329,Subduction zone / Continental crust (>25 km),27826,69451,1420878,22628278,-7.942
+256010,Tinakula,Stratovolcano,796,Subduction zone / Crustal thickness unknown,,19,19,20155,-10.386
+300240,Tolbachik,Shield,3611,Subduction zone / Continental crust (>25 km),,,225,10487,55.832
+241080,Tongariro,Stratovolcano(es),1978,Subduction zone / Continental crust (>25 km),27,286,7591,81567,-39.157
+352080,Tungurahua,Stratovolcano,5023,Subduction zone / Continental crust (>25 km),476,20990,183640,1571744,-1.467
+345070,Turrialba,Stratovolcano,3340,Subduction zone / Continental crust (>25 km),1891,6867,672428,3390544,10.025
+252120,Ulawun,Stratovolcano,2334,Subduction zone / Continental crust (>25 km),30,1801,10577,61018,-5.05
+312070,Veniaminof,Stratovolcano,2507,Subduction zone / Continental crust (>25 km),,,,542,56.17
+357120,Villarrica,Stratovolcano,2847,Subduction zone / Continental crust (>25 km),477,1067,35118,667788,-39.42
+353020,Wolf,Shield,1710,Rift zone / Oceanic crust (< 15 km),165,165,237,1673,0.02
+300120,Zhupanovsky,Compound,2899,Subduction zone / Continental crust (>25 km),,,153,267080,53.589
+221020,Zubair Group,Shield,191,Rift zone / Oceanic crust (< 15 km),,,,671171,15.05
